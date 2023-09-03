@@ -9,7 +9,7 @@ export default function App() {
           style={styles.image}
           source={require("./images/pic.png")} // static image
         />
-        <Text style={styles.name}>Angelo Maldora</Text>
+        <Text style={styles.name}>Jesriel Linog</Text>
         <Text style={styles.course}>Information Technology 3</Text>
       </View>
       <Text style={styles.subject}>My Subjects</Text>
